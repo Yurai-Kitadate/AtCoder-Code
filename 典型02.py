@@ -30,3 +30,5 @@ for i in range(len(pattern)):
 PPP.sort()
 for i in range(len(PPP)):
   print(PPP[i])
+# bit全探索で()の並びを全列挙する
+# sortして順番に出力
